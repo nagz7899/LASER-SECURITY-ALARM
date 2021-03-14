@@ -1,0 +1,19 @@
+COMPONENTS REQUIRED :
+	
+1.Arduino UNO (x 1) 
+		
+2.Breadboard (x 1) 
+	
+3.Resistor 330 ohm (x 3)
+
+4.5 mm LED: Red and Blue (x 2)
+	
+5.Jumper wires (x 1)
+
+6.Buzzer (x 1)
+	
+7.Pushbutton (x 1)
+
+8.Photo resistor (x 1)
+	
+9.Laser pointer (x 1)
